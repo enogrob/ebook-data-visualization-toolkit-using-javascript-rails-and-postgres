@@ -16,10 +16,10 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
-[ ] Foreword xv
-[ ] Preface xvii
-[ ] Acknowledgments xxiii
-[ ] About the Author xxv
+[x] Foreword xv
+[x] Preface xvii
+[x] Acknowledgments xxiii
+[x] About the Author xxv
 
 Part I: ActiveRecord and D3 1
 
